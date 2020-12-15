@@ -7,6 +7,13 @@ import java.nio.file.Paths;
 
 import markov.MarkovChain;
 
+/**
+ * CLASS MarkovApp
+ * Cet classe est la classe principale de notre projet (main class).
+ * La classe MarkovApp lit le fichier contenant le texte et retourne un texte aléatoire.
+ * @author joseph
+ *
+ */
 public class MarkovApp {
 	
 	public static void main(String[] args) throws Exception {

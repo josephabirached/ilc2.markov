@@ -5,7 +5,12 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+/**
+ * CLASS MarkovData
+ * La classe MarkovData lit une texte donné et les répartie dans des différents variables.
+ * @author joseph
+ *
+ */
 public class MarkovData {
 	private Map<String, String> markovTable = new HashMap<String,String>();
 	private List<String> textwords = new ArrayList<String>();

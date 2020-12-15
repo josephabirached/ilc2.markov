@@ -5,6 +5,12 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * CLASS MarkovChain
+ * La classe MarkovChain est une classe qui apprend des patterns pour générée des textes. 
+ * @author joseph
+ *
+ */
 public class MarkovChain {
 	
 	/** Markov chain ngram parameter (contiguous sequence of words) */
